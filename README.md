@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jaquelinew
-- 👀 I’m interested in coding and my boyfriend
-- 🌱 I’m currently learning java, python, etc.
+- 👋 Hi, I’m Jaqueline (jaquelinew)
+- 👀 I’m interested in coding and my very handsome fiance
+- 🌱 I’m currently learning java, python, and that I don't have many brain cells
 - 💞️ I’m looking to collaborate on coding problems
 - 📫 How to reach me @24.jaqueline.west@ksd.org
 
