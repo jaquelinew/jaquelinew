@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jaquelinew
-- 👀 I’m interested in cyber security
+- 👀 I’m interested in coding and my boyfriend
 - 🌱 I’m currently learning java, python, etc.
 - 💞️ I’m looking to collaborate on coding problems
 - 📫 How to reach me @24.jaqueline.west@ksd.org
